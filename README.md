@@ -1,2 +1,2 @@
 # solver-based-on-pyomo
-some exercises of solver using python package 'pyomo'
+some exercises on using python package 'pyomo'
